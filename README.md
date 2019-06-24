@@ -10,6 +10,8 @@ https://www.tutorialspoint.com/html/html_quick_guide.htm
 ### css selector
 [example](https://www.w3schools.com/cssref/trysel.asp)
 
+### regex
+
 
 ## Scrapy
 video tutorials: https://learn.scrapinghub.com/scrapy/
