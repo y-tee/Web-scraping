@@ -13,5 +13,6 @@ https://www.tutorialspoint.com/html/html_quick_guide.htm
 ### regex
 
 
-## Scrapy
-video tutorials: https://learn.scrapinghub.com/scrapy/
+## [Scrapy](https://docs.scrapy.org)
+video tutorials: https://learn.scrapinghub.com/scrapy/ \
+case studies: https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
